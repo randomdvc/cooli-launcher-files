@@ -9,18 +9,18 @@
   "servers": [
     {
       "id": "Cooli-1.7.10",
-      "name": "Cooli",
-      "description": "Cooli Serveur PvP Faction Moddé",
+      "name": "Cooli (Minecraft 1.7.10)",
+      "description": "Cooli Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
-      "address": "cooli.minesr.com",
+      "address": "localhost:25565",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
