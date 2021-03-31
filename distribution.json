@@ -13,7 +13,7 @@
       "description": "Serveur PVP Faction Moddé",
       "icon": null,
       "version": "1.0.0",
-      "address": "l147.135.160.223:25607",
+      "address": "cooli.minesr.com:25607",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
