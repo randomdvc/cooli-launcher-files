@@ -226,6 +226,16 @@
           }
         },
         {
+          "id": "generated.forgemod:codechickenlib:1.7.10-1.1.3.138-universal@jar",
+          "name": "CodeChickenLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 314789,
+            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/CodeChickenLib-1.7.10-1.1.3.138-universal.jar",
+            "MD5": "07fd1a4d8337cca200d871e25426705d"
+          }
+        },
+        {
           "id": "generated.forgemod:coolimod:0.18-patch1@jar",
           "name": "CooliMod",
           "type": "ForgeMod",
@@ -236,6 +246,16 @@
           }
         },
         {
+          "id": "generated.forgemod:customnpcs:1.7.10@jar",
+          "name": "CustomNpcs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9007920,
+            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/CustomNPCs_1.7.10d29oct171.jar",
+            "MD5": "486eb501ae87b3efcdc6b08823c7d7c9"
+          }
+        },
+        {
           "id": "generated.forgemod:ironchest:1.7.10-6.0.62.742-universal@jar",
           "name": "Ironchest",
           "type": "ForgeMod",
@@ -243,6 +263,16 @@
             "size": 158104,
             "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/ironchest-1.7.10-6.0.62.742-universal.jar",
             "MD5": "48d942594459c437ce8e8648ca42a7b9"
+          }
+        },
+        {
+          "id": "codechicken.nei:notenoughitems:1.7.10-1.0.5.120-universal_1@jar",
+          "name": "NotEnoughItems",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 513136,
+            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/NotEnoughItems-1.7.10-1.0.5.120-universal_1.jar",
+            "MD5": "742e865a9a80071e80976ffedc05700e"
           }
         },
         {
