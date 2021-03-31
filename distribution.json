@@ -226,16 +226,6 @@
           }
         },
         {
-          "id": "codechicken.core.launch:codechickencore:1.7.10-1.0.7.47-universal@jar",
-          "name": "CodeChickenCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 145782,
-            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
-            "MD5": "07690caf86ecf79739852154f5e44750"
-          }
-        },
-        {
           "id": "generated.forgemod:coolimod:0.18-patch1@jar",
           "name": "CooliMod",
           "type": "ForgeMod",
@@ -253,16 +243,6 @@
             "size": 158104,
             "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/ironchest-1.7.10-6.0.62.742-universal.jar",
             "MD5": "48d942594459c437ce8e8648ca42a7b9"
-          }
-        },
-        {
-          "id": "codechicken.nei:notenoughitems:1.7.10-1.0.5.120-universal_1@jar",
-          "name": "NotEnoughItems",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 513136,
-            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/NotEnoughItems-1.7.10-1.0.5.120-universal_1.jar",
-            "MD5": "742e865a9a80071e80976ffedc05700e"
           }
         },
         {
