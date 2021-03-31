@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "Cooli-1.7.10",
-      "name": "Cooli (Minecraft 1.7.10)",
-      "description": "Cooli Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "name": "Cooli",
+      "description": "Serveur PVP Faction Moddé",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "l147.135.160.223:25607",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
