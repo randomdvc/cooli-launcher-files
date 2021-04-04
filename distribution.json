@@ -216,7 +216,7 @@
           }
         },
         {
-          "id": "codechicken.lib:codechickenlib:1.7.10-1.1.3.138-universal@jar",
+          "id": "codechicken.lib:CodeChickenLib:1.7.10-1.1.3.138-universal@jar",
           "name": "CodeChickenLib",
           "type": "ForgeMod",
           "artifact": {
@@ -226,7 +226,7 @@
           }
         },
         {
-          "id": "codechicken.core:codechickencore:1.7.10-1.0.7.47-universal@jar",
+          "id": "codechicken.core:CodeChickenCore:1.7.10-1.0.7.47-universal@jar",
           "name": "CodeChickenCore",
           "type": "ForgeMod",
           "artifact": {
