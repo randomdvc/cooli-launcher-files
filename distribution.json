@@ -236,6 +236,16 @@
           }
         },
         {
+          "id": "generated.forgemod:codechickencore:1.0.7.47@jar",
+          "name": "CodeChickenCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145782,
+            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+            "MD5": "07690caf86ecf79739852154f5e44750"
+          }
+        },
+        {
           "id": "generated.forgemod:coolimod:0.18-2@jar",
           "name": "CooliMod",
           "type": "ForgeMod",
