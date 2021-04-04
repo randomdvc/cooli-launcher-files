@@ -236,13 +236,13 @@
           }
         },
         {
-          "id": "generated.forgemod:coolimod:0.18-patch1@jar",
+          "id": "generated.forgemod:coolimod:0.18-2@jar",
           "name": "CooliMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 623098,
-            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/coolimod-0.18-patch1.jar",
-            "MD5": "f2bf2de79c93bf2d5d6e33b6ef1ba2c6"
+            "size": 625583,
+            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/coolimod-0.18-2.jar",
+            "MD5": "8a18bf5ffa10743206fa79fd93563af8"
           }
         },
         {
