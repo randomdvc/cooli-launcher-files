@@ -284,6 +284,16 @@
             "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/Secret-Rooms-Mod-1.7.10.jar",
             "MD5": "d04fd9e193ecdce6b020cdb25148691c"
           }
+        },
+        {
+          "id": "generated.forgemod:optifine:OptiFine_1.7.10_HD_U_E7-@jar",
+          "name": "Optifine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1774165,
+            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/OptiFine_1.7.10_HD_U_E7.jar",
+            "MD5": "445062f5aaf982c36c72d90530c26850"
+          }
         }
       ]
     }
