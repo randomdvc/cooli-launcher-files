@@ -236,7 +236,7 @@
           }
         },
         {
-          "id": "generated.forgemod:codechickencore:1.0.7.47@jar",
+          "id": "generated.forgemod:codechickencore:1.0.7.47-universal@jar",
           "name": "CodeChickenCore",
           "type": "ForgeMod",
           "artifact": {
