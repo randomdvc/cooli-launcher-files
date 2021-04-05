@@ -218,7 +218,7 @@
         {
           "id": "codechicken.lib:CodeChickenLib:1.7.10-1.1.3.138-universal@jar",
           "name": "CodeChickenLib",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 314789,
             "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/CodeChickenLib-1.7.10-1.1.3.138-universal.jar",
