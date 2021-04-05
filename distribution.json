@@ -304,6 +304,17 @@
             "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/forgemods/required/OptiFine_1.7.10_HD_U_E7.jar",
             "MD5": "445062f5aaf982c36c72d90530c26850"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 7595,
+            "url": "https://raw.githubusercontent.com/rldevelopement/cooli-launcher-files/main/servers/Cooli-1.7.10/files/servers.dat",
+            "MD5": "ae731cbaa8460516d3bcabf371087d1d",
+            "path": "servers.dat"
+          }
         }
       ]
     }
